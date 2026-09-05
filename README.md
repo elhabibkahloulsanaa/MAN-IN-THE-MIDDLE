@@ -1,6 +1,6 @@
 # MAN-IN-THE-MIDDLE
 
-🔐 ## Class Activity: Top Hacker Shows Us How It's Done
+## Class Activity: Top Hacker Shows Us How It's Done
 
 ## Topic: Vulnerabilities in wireless and common technologies
 
